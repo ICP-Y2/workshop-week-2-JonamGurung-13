@@ -87,6 +87,8 @@ Figure 6: Simple simulation Circuit
 **2.2.	Learning Reflection**
 
 Write a brief note about the results of simulating a simple electric circuit by connecting components directly..
+We observed that when the resistor's resistance is changed it affects the LED's intensity like when the resistance is low, the intensity of LED increases and vice versa.
+Hence, when there is low resistance in resistor it increases the intensity of the LED and when the resistance is high, it decreases the intensity of LED.
 
 
 ```
