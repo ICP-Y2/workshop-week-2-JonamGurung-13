@@ -87,8 +87,8 @@ Figure 6: Simple simulation Circuit
 **2.2.	Learning Reflection**
 
 Write a brief note about the results of simulating a simple electric circuit by connecting components directly..
-We observed that when the resistor's resistance is changed it affects the LED's intensity like when the resistance is low, the intensity of LED increases and vice versa.
-Hence, when there is low resistance in resistor it increases the intensity of the LED and when the resistance is high, it decreases the intensity of LED.
+We observed that when the resistor's resistance is changed it affects the LED's intensity like when the resistance is low, the intensity of LED increases and vice versa. When the LED is put in the different direction the LED wont lit up.
+Hence, when there is low resistance in resistor it increases the intensity of the LED and when the resistance is high, it decreases the intensity of LED. The circuit will break when LED is put in different direction.
 
 
 ```
@@ -105,6 +105,8 @@ Figure 7: Using a breadboard to connect components.
 **3.2.	Learning Reflection**
 
 Write a brief note on the results observed while changing the resistor’s resistance in the simulation. What about direction of LED connected?
+We observed that the result is same as that of 3.1 the resistor's resistance is changed it affects the LED's intensity like when the resistance is low, the intensity of LED increases and vice versa.
+Hence, when there is low resistance in resistor it increases the intensity of the LED and when the resistance is high, it decreases the intensity of LED.
 
 
 ```
@@ -121,9 +123,9 @@ Complete the provided circuit and verify Voltage divider Rule. Set 10 in Voltage
    
 `Voltage Value Calculate together with Resistance Value with R2:`
 
-a.	R2: ________________ V: _____________    Measured Voltage: ________________
+a.	R2: 1 Kohm V: 10V    Measured Voltage: 5V
 
-b.	R2: ________________ V: _____________    Measured Voltage: ________________
+b.	R2: 2 Kohm V: 10V    Measured Voltage: 6.67V
 
-c.	R2: ________________ V: _____________    Measured Voltage: ________________
+c.	R2: 0.5 Kohm V: 10V    Measured Voltage: 3.33V
 
